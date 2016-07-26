@@ -1,0 +1,13 @@
+{
+  "name": "tiffi",
+  "version": "0.1.1",
+  "description": "Oblique Strategies in your terminal, one command to a potential problem solver",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Jacob Thompsno-McDonald",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "tiffi": "index.js"
+  }
+}
