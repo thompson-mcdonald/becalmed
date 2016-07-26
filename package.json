@@ -1,6 +1,6 @@
 {
   "name": "tiffi",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Oblique Strategies in your terminal, one command to a potential problem solver",
   "main": "index.js",
   "keywords": [],
